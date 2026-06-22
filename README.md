@@ -1,6 +1,6 @@
 # Sierra Leone Farm Crop & Cost Tracker
 **Course:** PROG103 – Principles of Structured Programming
-**Group:** BSEM1202F GROUP NULL
+**Group:** BSEM1202F GROUP9
 **Student:** Conrad D.K Feika
 
 ##  What it does
